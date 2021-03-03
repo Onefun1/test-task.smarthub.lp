@@ -2,4 +2,4 @@
 landing page
 
 
-## Preview[https://onefun1.github.io/test-task.smarthub.lp/]
+## [Preview](https://onefun1.github.io/test-task.smarthub.lp/)
